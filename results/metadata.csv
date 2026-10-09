@@ -1,0 +1,390 @@
+file_id,age,race,gender,Surgery_treatment,Radiation_treatment,Pharmaceutical_treatment,survival_5yrs,cancer_stages_conca
+f599be9a-0cac-4441-905c-5a6c87e7bc8c,71.16,black or african american,female,1,1,1,1,1
+542856ab-164d-4edd-833a-925da96d1eeb,88.78,white,female,1,1,1,0,2
+206804c1-e5be-4076-9793-406d11094266,58.38,white,female,1,1,1,1,2
+c3bab823-4bf2-40ea-903c-fb342067c893,83.12,white,female,1,0,0,0,1
+0a7421d4-5722-427a-9643-da1074e5c25c,45.22,white,female,1,1,1,0,3
+96e54b36-0b71-4ad0-9b21-72668708fc62,54.16,white,female,1,1,1,0,2
+9ccdf2cc-ca01-4ef7-bed9-f955fd0396c2,72.73,white,female,1,1,1,0,2
+de397789-9ff5-4cb0-be88-957477820714,80.4,white,female,1,1,1,1,1
+acfa0ea5-3345-4734-9917-d3acc10d1a15,50.74,white,female,1,0,0,0,3
+0e89f9f0-419f-46e7-981d-781a1302e4be,79.38,white,female,1,0,0,1,1
+25294e7a-1f15-411c-a2fd-93097e387db2,72.64,white,female,1,1,1,0,3
+50721c97-1a23-405b-b7b3-2955e4c62e5a,60.47,white,female,1,1,1,0,2
+c9920595-31f2-4977-b6bd-c0fa3ffcf461,40.42,white,female,1,1,1,0,2
+f7e414a0-c2ca-40c7-a7a0-282d80247fa0,55.58,white,female,1,1,1,0,3
+80c3e656-26e4-4b45-acce-fac1a0c09d28,76.19,white,female,1,1,1,1,1
+b0e49ee8-40e0-4edf-bcde-277a0fe1d12f,41.68,black or african american,female,1,1,1,1,2
+7140b89b-50b6-42ed-a69d-1cbc7901d530,58.32,white,female,1,1,1,1,2
+4bf6ebc1-575d-49e4-9f66-068b537373c0,78.38,white,female,1,0,0,0,2
+760131f1-5fbf-469f-9629-43733014953d,51.35,white,female,1,1,1,1,2
+7ae79f8e-a8fa-4030-b46a-458db80a36c1,52.7,white,female,1,1,1,1,2
+37bf6454-a4e7-4e00-9562-57ba6fd58b6d,52.39,white,female,1,1,1,1,3
+416defdf-a4f7-4305-97ff-d3b3ebce672f,51.43,white,female,1,1,1,1,3
+9c0043c4-b65a-42ca-9f02-fe1cef04beaf,44.32,white,female,1,1,1,1,2
+24c5fcbb-019c-4636-813b-0b9d4d1d9501,73.55,white,female,1,1,1,1,1
+81801e72-d293-42e0-8871-5468e33b6d89,47.52,white,female,1,1,1,1,1
+59858555-bc6a-4286-8280-0f8341123cac,52.03,white,female,1,1,1,1,2
+80d565a0-59f6-409e-8850-5d4e2b5b996d,63.1,white,female,1,1,1,1,1
+e2b3728b-9827-4a13-b52c-caabd58f902e,47.78,black or african american,female,1,1,1,1,2
+2ce2b916-b768-424c-a57b-96ab4a77276e,41.89,asian,female,1,1,1,1,2
+a127fb1e-aa3b-4b6d-98b5-c141ffba9ae7,64.78,white,female,1,1,1,1,4
+14979d31-e8b1-4948-beea-f913dfefa200,63.01,black or african american,female,1,1,1,0,3
+a39993c2-0b95-4df1-b501-b1a746633449,57.97,white,female,1,1,1,1,2
+3d075fc4-5a01-47ce-bef0-a77acf71061d,59.88,white,female,1,1,1,1,3
+5728b421-9832-417b-8963-b7b17decc58e,80.56,white,female,1,1,1,1,1
+79f97f73-b650-49cf-8654-53038a6c0de7,34.09,asian,female,1,1,1,1,3
+59bb8b6d-9827-4d5c-8714-cbc8ec3b8be5,62.69,white,female,1,1,1,1,2
+1852f5d0-ce76-4f0d-87a7-0383f338c96b,73.7,black or african american,female,1,1,1,1,2
+451ecdf8-433f-4d38-8ab6-3cc8d428ed95,47.05,white,female,1,0,0,0,4
+16ffdede-3d07-431a-a4ed-318c7a66c096,59.81,white,female,1,1,1,1,3
+67347e29-6d43-4234-8b04-188be7e6440b,35.63,white,female,1,1,1,1,2
+f7b5d569-1a46-4f23-bfca-a46daacda793,54.76,white,female,1,1,1,1,1
+f94b47fb-764c-456f-946d-907a2fc154db,56.12,white,female,1,1,1,0,3
+336f0e3e-878e-4ee8-b2aa-cc536f3432f3,56.64,white,female,1,0,0,0,2
+0e89a7ce-aed2-4c74-9bdf-cf50793c73b6,46.99,white,female,1,1,1,1,1
+c32d5451-815d-4451-97b1-e61801574c22,88.48,white,female,1,0,0,0,1
+a4fc84b0-29ff-4994-b493-1102a044838d,54.25,white,female,1,1,1,1,1
+a37587aa-2e1f-42f5-a691-c4a41ae79ea9,46.09,white,female,1,0,0,1,1
+cd47d9e9-8072-4681-93ac-6c1420f6624c,67.95,white,female,1,1,1,1,2
+987d401a-3e68-414e-8067-afe277b02fad,52.49,white,female,1,1,1,1,2
+8603da6b-3bb9-4fff-b409-c5af2afd53b3,64.55,not reported,female,1,1,1,1,4
+f8b403a1-37cf-4acb-b5d7-b3437fafa7f8,38.6,white,female,1,0,0,0,2
+1f224847-d745-4dc5-9338-4044413e8ec4,80.9,white,female,1,0,0,1,2
+c6fd0f95-d74a-49e3-9a70-fec12e63ff1a,46.09,white,female,1,0,0,1,1
+7aff89e2-86cb-43d8-96cd-341c02ebdd49,63.37,asian,female,1,1,1,0,3
+ad8be67e-a885-4d33-8776-fa0a5f9863d1,80.37,white,female,1,0,0,0,2
+2377e521-919f-4f6f-b426-ddc993775597,39.9,white,female,1,1,1,1,3
+08b0fe4c-ee3c-4510-b75a-6d240cb038cc,39.38,white,female,1,1,1,1,3
+b01d7dfd-b577-48b8-8bf2-3c74bb617601,40.88,white,female,1,1,1,1,3
+8f1fa5b0-7b8b-41ae-9ba4-9bce8776e5a8,61.22,white,female,1,1,1,1,3
+5a827399-307b-412b-a2ce-f6c81d2750a6,54.35,white,female,1,1,1,0,2
+97dd05b6-58a9-43ab-9e03-faa105d2a700,88.78,white,female,1,1,1,0,2
+3396edba-0d2a-4485-ad0a-5114b38c1abe,50.62,white,female,1,1,1,1,1
+8e475a5c-0a90-4c31-a472-b1ae0946633d,60.34,white,female,1,1,1,1,3
+17ff23ff-17b3-4ed1-b10c-2d922c045807,67.24,white,female,1,0,0,0,2
+2aa3a845-cce2-4fe2-92f7-1fece9e619d5,77.82,black or african american,female,1,0,0,1,1
+7ff8696e-3809-4b96-9259-be654631d952,61.27,white,female,1,1,1,1,2
+8a84b9a5-d453-416b-b481-f15402c2eb54,83.12,white,female,1,0,0,0,1
+1ca86ab0-2f8a-4cd3-81b8-d19e8579b1d6,44.07,white,female,1,1,1,1,2
+f36e613e-af30-4b1c-aaf3-89540e05ddb1,50.5,white,female,1,1,1,1,2
+235a9719-23a6-48b5-bbb1-248dbec23a35,58.04,white,female,1,1,1,1,3
+f6565f25-4317-4615-a437-af79da929ecd,53.23,black or african american,female,1,1,1,0,4
+f1934efb-1c8a-4c72-ba94-d263ef0d0cd4,60.93,black or african american,female,1,1,1,1,2
+d8ac1c2a-1820-4174-99e3-524b334df490,38.6,white,female,1,0,0,0,2
+4ef3b472-5fce-4e6a-a835-659cc3fee694,54.16,white,female,1,1,1,1,1
+4f54add3-c33d-4bc9-9e1f-c75f52d15f1e,31.92,white,female,1,0,0,1,2
+4c8d0d1a-dbd3-4124-8458-dfb61f61f11c,37.14,black or african american,female,1,1,1,1,3
+0525bcb6-d206-46c8-b37d-b9b7cc90fef6,80.37,white,female,1,0,0,0,2
+fdd73b76-517e-4554-ba4d-1c67b1b758f8,60.48,white,female,1,1,1,1,1
+38854c85-fc09-4a51-93a7-257762517583,55.96,white,female,1,0,0,1,1
+fd94a0ed-37d8-49a5-af96-e2160a9e6096,60.88,white,female,1,0,0,0,1
+e8149278-3269-4dbe-9500-7045fd56cd2f,74.33,white,female,1,1,1,1,2
+5fbbee45-08b5-4cd0-83c6-c18bc4e89d99,61.31,white,female,1,1,1,0,3
+f63a40ad-26af-48d6-bb36-91fd91d32e6b,45.91,white,female,1,1,1,1,2
+0d11c50a-8648-48ea-a107-e138a1d3e086,90.06,white,female,1,0,0,0,3
+fb397586-1b5b-40e0-a885-8663f9c76f6d,62.85,white,female,1,1,1,0,2
+df416c2a-523d-4409-98ac-b0900584a065,68.33,white,female,1,0,0,0,1
+18b0bd2d-505f-4ecb-9bea-b52e6a74cebd,59.25,white,female,1,1,1,1,1
+b88daf3f-645d-4d11-a2be-2295e186747f,72.4,white,female,1,0,0,0,3
+a63cca36-139d-4054-9d99-9b04ddae7ec2,38.83,white,female,1,1,1,1,2
+28aa7b6c-d5ec-4aa1-9c39-70d571efe6fb,56.4,white,female,1,1,1,1,1
+7235fd65-e9cb-45f1-ac78-cad80823325e,50.64,white,female,1,1,1,0,3
+fcb1b40a-85c0-498c-881e-7161edcf39e6,58.59,white,male,1,1,1,1,2
+8fb0660c-fb39-47f0-8450-1f7abff3b656,42.06,black or african american,female,1,1,1,0,2
+56209bc1-f94b-4aa4-a9dd-757003f36fd2,46.0,white,female,1,1,1,1,3
+02e08315-4d34-421c-acc0-129b1e1de38b,66.63,white,female,1,1,1,1,2
+f30b7e3e-f26d-47f7-a87f-6c1a4f074f65,40.19,white,female,1,1,1,1,3
+4cafa8be-69f1-4c1a-87fb-c71df6de6a74,47.73,white,female,1,1,1,1,2
+481c702a-58ee-4fab-9559-434a45615aa5,60.47,white,female,1,1,1,0,2
+1a000feb-3b71-4f95-8b39-68ec25b64d96,44.13,white,female,1,1,1,1,3
+d2a12641-a25f-4aab-99a4-433cf664ae73,60.59,black or african american,female,1,1,1,1,2
+67d73608-5dfb-41c1-85d3-52f1eba7daa2,84.55,white,male,1,1,1,1,3
+70c9af7f-8a58-434f-8f45-098ef0450319,35.99,white,female,1,0,0,1,2
+a17d51b5-c397-4591-a227-dc0425948420,58.08,white,female,1,1,1,1,1
+eedfb6fb-3db6-4eae-8c6c-8b6722ae72b6,78.7,white,female,1,0,0,1,2
+435f3fbf-5c8f-4800-bff4-3b4d5f9daf2e,49.78,black or african american,female,1,1,1,1,2
+08837ae7-6f4f-4aa1-8722-7c404b66ed75,70.34,white,female,1,0,0,0,2
+e99a371e-14fa-46f7-89c1-ad36bcd82994,59.25,white,female,1,1,1,1,1
+d657ed9a-fd92-493c-ae10-120c8b0c58d7,62.58,white,female,1,0,0,1,2
+836f61df-2b3d-4e1f-abcc-37734091b746,50.74,white,female,1,0,0,0,3
+4b558a24-b10c-4d59-a921-10e6a3a9fb35,57.26,white,female,1,1,1,1,2
+94468afc-faea-4091-af0f-d2df8aec37da,50.26,white,female,1,1,1,1,2
+1936440a-9cfc-4b04-af40-3fbc22fe87f6,56.95,white,female,1,1,1,1,1
+739fe30a-4fae-4f4d-a360-3ab300a4848a,54.19,white,female,1,1,1,1,3
+cd9fd232-1d69-4ef0-911d-28130243994f,40.15,not reported,female,1,1,1,1,2
+c2515ef2-5cfc-4cc2-9541-ae072616d361,70.67,white,female,1,1,1,0,3
+1d7789a1-1ff1-4865-a9c9-dfb40e57aff5,71.12,white,female,1,1,1,1,2
+0972f396-9045-4faa-98f8-e8c3e02f9901,53.98,white,female,1,0,0,0,3
+1db8a1bb-fef2-4e06-9cd5-a1f6579573a5,72.4,white,female,1,0,0,0,3
+e5016a2d-c839-4962-aa12-16b6c0e1328b,66.64,white,female,1,1,1,1,2
+068841a8-af6a-4925-bad0-586005f59521,80.89,not reported,female,1,1,1,0,2
+39b28d5e-fc51-4dfc-bcbe-0285c3bad830,30.7,black or african american,female,1,1,1,1,2
+3bc9d1c0-b57f-44b5-8624-b3ee99aeafe4,57.34,white,female,1,1,1,1,2
+18340589-696e-4f56-80c2-dc7d7428c471,45.68,not reported,female,1,1,1,1,2
+e84b9f1a-0def-425b-86c1-c143b27509b5,66.47,white,female,1,0,0,1,3
+3173d46f-7344-41e4-bd4c-027fe5b5ec06,62.07,white,female,1,1,1,1,2
+bdee019c-38ae-4686-84fe-2454ba4c70dc,50.05,white,female,1,1,1,1,3
+7d0189e8-9726-439a-b5e4-b650bc33794b,48.96,white,female,1,1,1,1,2
+c4ceaaf8-4803-45d7-9937-42d25db60148,51.59,black or african american,female,1,1,1,1,1
+9bb406c8-2b8e-410e-8bca-02a778312056,49.3,white,female,1,1,1,1,1
+e86f9f1b-4e5c-4743-8158-14ec2e83b6f1,51.36,white,female,1,1,1,1,2
+a7091211-3bf5-4d3b-8625-57281bc0cd56,63.78,black or african american,female,1,1,1,0,4
+55214dd2-b3e8-444c-9d02-3db6008b1920,48.53,white,female,1,0,0,0,2
+f88ba6a1-27bf-43fa-a2c7-05db1eb9e8ea,47.48,white,female,1,1,1,1,2
+0437af11-bb89-4901-9764-bb410c2e94c5,68.33,white,female,1,0,0,0,1
+248ac510-a5af-4608-9cdc-5c8673633b82,78.65,black or african american,female,1,0,0,1,2
+9a6563cf-557b-4f26-b6a2-6c6f1eb03654,54.93,white,female,1,1,1,1,2
+561bb38a-f9b8-4a0a-b03b-fbe70859869a,56.65,white,female,1,0,0,0,4
+ee447251-5c90-426f-a0c7-bd2041189761,61.04,white,female,1,1,1,1,3
+7af23ba7-e5bf-41b9-b91f-5709321dadb7,48.01,white,female,1,1,1,1,2
+742a677b-e99b-4916-bb92-3536c55ee5e3,73.94,white,female,1,1,1,1,1
+89e67cfd-7728-4a0e-bfa5-4c55ae957ef8,69.86,white,female,1,1,1,1,1
+7814e438-105f-4d5b-94fe-8c66e95585ea,26.59,white,female,1,1,1,1,2
+b9a1e2f1-e5c4-4855-9720-4c168474dd26,64.73,white,female,1,1,1,1,2
+bc0a4326-63d2-4ec4-9af6-7b421aa8aa49,34.32,asian,female,1,1,1,1,1
+de98339e-9b13-4def-b3d9-234fdc784cec,90.06,white,female,1,1,1,0,2
+9b980569-4da2-43ee-a06a-18ee09baf41d,60.64,white,female,1,1,1,1,1
+db5aadbb-3042-4c20-8235-ccd19634d9d3,58.6,black or african american,male,1,1,1,0,4
+56081713-6249-4a3f-8498-277e688d1ec9,73.11,white,female,1,0,0,0,3
+d9b6b523-00de-4638-a3f3-8de841fb7183,60.09,white,female,1,0,0,1,2
+456bc30b-59f8-4427-b798-5b113ca635a0,56.65,white,female,1,0,0,0,4
+c7646bc5-436b-4ad5-b5ae-894b2e843cda,54.13,white,female,1,1,1,1,2
+c1f6f39f-db8f-4449-bfb2-d1f3f2a95d22,65.36,white,female,1,1,1,1,2
+fc203d80-6254-402c-8c8b-a5500bfa909e,66.52,not reported,female,1,1,1,1,2
+f205f47f-bd57-42bf-a702-4a17d4391411,75.5,black or african american,female,1,1,1,1,2
+891873c8-bb26-4215-9281-a79be2651f11,79.29,white,female,1,1,1,0,2
+b54476c3-f6f1-4474-b447-72023ba97687,48.81,white,female,1,1,1,0,4
+0b829610-f28e-418e-b79d-d3351e13e1fe,42.81,black or african american,female,1,1,1,1,2
+7000e222-556a-4548-9542-9337ba70f79c,47.18,white,female,1,1,1,1,1
+68881256-49b8-4a19-87a9-afac4f1841d2,44.39,white,female,1,1,1,1,1
+c3b9e954-9acd-481d-b6d1-86db1e62d037,52.95,white,female,1,1,1,0,2
+bbff7857-30a2-41ad-b2f7-5a6ffc59fe0c,52.14,white,female,1,1,1,1,1
+90eefb33-6808-45c3-9ab1-6eca0decdc9d,44.31,white,female,1,0,0,0,1
+52151eca-7819-496e-bf31-4875b68d429d,89.27,white,female,1,1,1,0,2
+0710056c-2f04-4182-90ca-45492dd6444c,62.46,white,female,1,1,1,0,4
+04a7cce8-c3b3-4994-9dac-c0e53099f37d,69.01,white,female,1,1,1,0,2
+43820fe3-a899-4e6b-9227-27e32edaefd5,62.56,white,female,1,1,1,1,1
+8f4d34b3-5dd0-4ff2-b017-0cfa6e5c5f6b,66.47,white,female,1,0,0,1,3
+be386ce9-a12f-4c16-80ba-a5d47d5b374e,41.87,black or african american,female,1,1,1,1,2
+be4d1c31-e925-4eb0-aa96-974b6f6bcc07,77.64,not reported,female,1,1,1,0,2
+90452523-0f9a-4c14-9d5f-e44f7079fb18,58.07,white,female,1,1,1,1,2
+95f4620f-f9b0-4533-bb13-f412d774244a,43.32,white,female,1,1,1,1,2
+1d7e99d8-052d-491a-8088-91cb0790cb17,53.92,black or african american,female,1,1,1,1,3
+1b65bcb7-8170-4eb8-af93-c547b984c571,63.36,white,female,1,1,1,0,4
+ccc7b8e5-7ea4-4efc-81c1-ef6c15acd241,69.48,black or african american,female,1,1,1,1,2
+c71bfebf-e152-4706-bd72-07103f936a85,81.94,white,female,1,1,1,1,3
+7bcb3817-31ac-4ef5-9038-a9bfebad5869,75.85,black or african american,female,1,1,1,1,3
+683e004b-7992-4250-a94b-c355c45725d2,64.73,white,female,1,1,1,1,2
+2fa144d0-2776-46d9-a7d4-41f68a1d3727,36.94,black or african american,female,1,1,1,1,1
+309dcac2-7efa-467c-9dc7-222c130b0fec,66.48,white,female,1,1,1,0,2
+1c3a771f-43db-4b45-93f8-f8e6d2ab6847,44.21,white,female,1,1,1,1,3
+b2f5c7b1-96c1-4928-83e9-4f67ace3158e,48.38,white,female,1,1,1,1,1
+5405b59e-44cc-4745-b838-ca279210cbed,70.75,white,female,1,1,1,1,1
+152c8e57-1f2f-464c-ad13-de0f4d81dbff,42.38,white,female,1,1,1,1,2
+573241d2-e298-426a-84a0-2c3889bae923,59.88,white,female,1,1,1,1,3
+d32a2386-8747-4f9f-84b2-130a2c948342,87.14,white,female,1,1,1,0,2
+5c0579f7-6184-4afa-805c-7aeec4a4c5d2,64.28,white,female,1,1,1,1,2
+3ce988e2-61c5-4f53-b9c8-cfc280649c1f,90.06,white,female,1,0,0,0,3
+eb166054-ff70-4a86-883b-9c25a7d2b0e5,64.8,not reported,female,1,1,1,1,2
+736fca14-66fb-481a-985e-7253f75243a8,55.82,white,female,1,1,1,1,3
+a6f9b537-d843-4181-9ba8-712c44986581,80.75,white,female,1,1,1,0,3
+d5664879-53a0-490a-a3cb-47c551b6bf34,34.32,white,female,1,0,0,1,2
+09f9ebad-e7cd-4c20-9eab-8fd2066d9051,78.65,black or african american,female,1,0,0,1,2
+a701ab46-0745-4f23-8723-df5846e8806f,62.21,white,female,1,1,1,1,2
+63454d5d-a654-4be0-b812-dd5c98d07ea1,41.87,black or african american,female,1,1,1,1,2
+fbdb3ca1-c7c8-437e-a315-25e3bc623236,77.39,white,female,1,1,1,1,2
+87b59374-da2d-41ba-bbde-43a9022eac2c,64.27,white,female,1,1,1,1,3
+86b7ddd7-1c59-4937-99ec-b30fa9b4f0bd,80.9,white,female,1,0,0,1,2
+eba83203-1de1-447a-88d0-2ffbccc24990,40.34,white,female,1,1,1,1,3
+046fe29e-7c99-4093-8565-f2f205a00796,54.93,white,female,1,1,1,1,2
+eddb2dc6-2b72-43a8-a7fc-3dd09dde68af,44.31,white,female,1,0,0,0,1
+35fd75aa-21e8-49c0-8b40-159839c3cc19,56.51,white,female,1,1,1,1,2
+5db109b6-dbfe-4ec8-8697-bb7fff5beb4b,52.78,not reported,female,1,1,1,0,4
+447e3faf-a5f2-4739-b2aa-c907f33b634a,40.42,white,female,1,1,1,0,2
+3782bc2e-5a29-4380-9b44-735ca1ac8896,63.42,white,female,1,1,1,1,2
+7860a938-e43a-4c3a-83b4-6578cea95df8,48.16,white,female,1,1,1,1,2
+707414cc-7f34-41c6-8803-6641521a4069,51.78,white,female,1,1,1,1,2
+cdfe79d9-a0bd-4700-937f-07bd0ee51d73,26.96,white,female,1,1,1,1,2
+c7571e35-d912-4935-b2c3-bbba019fe9f8,62.66,white,female,1,1,1,1,2
+c3f4adee-86da-42fa-b37a-d48d66f89e09,64.5,black or african american,female,1,1,1,1,2
+927604f9-a38e-4c3f-b50f-3e0db4daf5ec,50.79,black or african american,female,1,1,1,1,2
+cba08218-0a7b-4425-8776-b240fac9b6cf,62.41,white,female,1,1,1,1,2
+5645320f-820e-45b7-b4cf-ea05085f53e3,38.68,white,female,1,1,1,1,3
+0a511373-8fd3-433a-a5e1-877530d6a239,62.16,white,female,1,1,1,0,2
+31e1dbf5-8c97-4e4d-a488-d6737ab304c2,54.47,white,female,1,1,1,1,1
+196aed5b-6812-47c5-ad7b-4dd1743ed0b5,59.24,white,female,1,1,1,1,1
+d01e4cd5-3c52-4655-8b7c-ef6070d58090,52.13,white,female,1,1,1,1,2
+641c4e5d-4880-4f5e-9d1e-702cab91a6b4,51.65,white,female,1,1,1,1,2
+92fc6274-1d0f-4e1c-a124-9e5135753d99,63.07,white,female,1,1,1,1,1
+14edb678-3b6c-4a58-aabf-0f9d1f7d9bdc,76.48,white,female,1,1,1,1,1
+ad1ea8c5-ca8b-49e9-a650-6012d71daf24,46.96,white,female,1,1,1,1,2
+7cf427fc-2c7c-434b-84c5-9ea118da110f,55.96,white,female,1,0,0,1,1
+afedbcf7-d427-4371-9c2a-f349b03de522,51.29,white,female,1,1,1,1,2
+be65c37e-7aa8-466d-a1fe-102e8e25e2e9,62.49,white,female,1,1,1,1,1
+1936f1a9-66bc-4e48-8189-f0e3a67a5593,41.31,white,female,1,1,1,1,2
+97dbbbc5-cd1a-4bb8-99c5-600870ccd35d,57.87,white,female,1,1,1,1,2
+bd86e2d9-6098-4f78-9e9b-f2f95367c739,78.42,black or african american,female,1,1,1,1,3
+c9230a1c-9844-43ef-a2c3-95ea6061000b,58.59,white,male,1,1,1,1,2
+b8c05229-16e4-4888-9f44-556c5570a4af,49.46,white,female,1,1,1,1,2
+e5f6e803-fc44-4f0f-9f6e-562b4e7d77ca,64.89,asian,female,1,1,1,1,2
+fa48dda4-5b65-44fa-b0c3-b02d53d928c5,55.45,white,female,1,1,1,0,3
+c84958db-e7a3-4cd5-9b5e-a5435a86021d,68.87,white,female,1,0,0,1,2
+f24d6e88-634e-4d86-b993-76a40f1190d0,45.72,white,female,1,1,1,1,2
+4c46a463-f0e3-4e19-ad95-5dab0231d1c6,64.4,white,female,1,1,1,1,1
+0fef4f4a-1c4e-4035-acff-af12febbaf1e,68.19,white,female,1,1,1,1,2
+ae72486a-e98c-4d72-b172-085d5b79df2c,70.02,white,female,1,0,0,0,2
+deb932e6-470e-4fae-88f1-efb2e820325e,85.53,white,female,1,1,1,0,3
+1ab2be1b-4a61-480e-aa1b-eafab958f1f7,71.16,black or african american,female,1,1,1,1,1
+84df6b33-7f6a-496d-8cd7-f523b07fd0bb,56.69,white,female,1,1,1,0,2
+f69ca0e5-201f-4066-81a5-c5b9c8a5012c,46.5,white,female,1,1,1,1,2
+507952aa-23c0-4239-ae19-04d8f862acc2,54.93,asian,female,1,0,0,0,2
+d6882616-b77d-4d4c-90dc-7318c57876e1,36.74,white,female,1,1,1,1,2
+699e47b8-5396-43eb-927d-8d05b0e79644,78.38,white,female,1,0,0,0,2
+a3e73f16-dc65-4c2e-9846-052b8fae144c,44.63,white,female,1,0,0,0,3
+8d558ae5-f3a1-49fa-aa44-5abc6244b57a,74.63,white,female,1,1,1,0,3
+b4ac6e06-8760-4cb2-883c-c829eaefdc4c,42.72,white,female,1,1,1,1,2
+dcf2260b-c0bf-4f59-a4da-079a340b1e33,59.6,white,female,1,1,1,1,2
+ef181439-d071-40e0-a185-f29343085f8c,49.61,white,female,1,1,1,1,2
+8c884351-1c8b-47ff-8bef-1a4f25f645fb,45.72,white,female,1,1,1,1,2
+136df0c2-a2a4-42e9-9cc6-9051d4f4c13d,39.04,white,female,1,1,1,1,2
+bdf5a2b7-f9cb-4668-9687-1db0541bdfe4,87.48,white,female,1,1,1,0,1
+5aba8f7f-c815-45e9-bee0-4dda9bfac07f,67.24,white,female,1,1,1,1,2
+7806768a-e8c6-48b0-a241-c036c230e78b,35.53,white,female,1,1,1,0,1
+62a4b965-7aaa-4bd4-b469-57a713b2e9fd,41.31,white,female,1,1,1,1,2
+1d15f05d-2ac2-4b83-987e-6f4b157b0b74,62.8,white,female,1,1,1,1,2
+fed5e108-cb1a-45b8-88e8-c5ea6a6bd61a,50.99,white,female,1,1,1,1,1
+1479c033-ebe7-423d-8460-bbe84fd5ffb6,30.7,black or african american,female,1,1,1,1,2
+ed797859-4d7e-40e6-bae3-54ef15ad0f0a,63.64,white,female,1,1,1,1,2
+773071d4-438a-4da7-b833-d2d172c4c4e2,53.98,white,female,1,0,0,0,3
+798e4669-4ca3-4af1-b713-be2b1f30e4dc,63.13,white,female,1,1,1,1,2
+8e063797-856c-491a-b702-1a37ebf6b6a8,62.73,white,female,1,1,1,0,2
+461fda5d-d6e6-4354-b035-c302cc43b03f,47.4,white,female,1,1,1,0,3
+f2842246-b121-48f0-a8c5-474a8fb47036,63.42,white,female,1,1,1,0,3
+5fcd0660-3e77-4a56-af19-01045301708c,68.52,white,female,1,1,1,1,2
+6b62d6dd-bb6f-4f39-9041-992c47b875f3,57.33,black or african american,female,1,1,1,1,2
+f2bf29d2-4c33-4810-90e8-88f37ea47bc8,65.88,white,female,1,1,1,1,2
+48847088-1303-4b23-8902-c0ca4ea5ae80,44.32,black or african american,female,1,1,1,0,3
+3071e512-94ea-4820-9573-668235188e34,42.72,white,female,1,1,1,1,2
+7f1cbb4f-aecf-42be-91cc-fb35d03447df,53.47,black or african american,female,1,1,1,1,3
+ddb8fb65-cf53-41a0-8acd-a538a8754fa5,39.81,white,female,1,0,0,1,3
+4ad2cbb3-5bca-462b-af1f-8a292c317722,58.48,white,female,1,1,1,1,1
+da2cff7a-9b9d-4ae8-aa49-d717a77906e1,86.04,white,female,1,1,1,0,2
+1ce0d66a-176d-4d8a-b1c4-64d847e299be,44.63,white,female,1,0,0,0,3
+bdef0c66-0755-4581-b813-87c8512754ba,29.86,white,female,1,1,1,1,2
+7d904415-9887-4738-99ae-66dcd60084ac,42.53,white,female,1,1,1,1,1
+fc9fab5b-52f0-4c79-bdf3-750c650a0fdc,52.41,black or african american,female,1,1,1,0,2
+2faa9332-e577-4884-94e4-b895827db8b6,78.72,asian,female,1,1,1,0,3
+88a16056-cc45-4fee-99e0-f7fc7e1971df,56.92,black or african american,female,1,1,1,1,1
+8849e5bf-ff35-4cbf-972c-01fb92201a73,48.53,white,female,1,0,0,0,2
+2abc5233-1389-4efb-ba21-de05251ab25a,61.88,white,female,1,1,1,1,1
+5b6828f2-4da6-49a4-a19c-569e089ff0b0,62.49,black or african american,female,1,1,1,1,1
+040d00da-2bc9-49d4-bf6c-b4515b6a2bbf,48.44,white,female,1,0,0,0,2
+4cce67eb-0cb7-4c8f-a81e-0e521c2b0168,47.85,white,female,1,1,1,1,3
+e3cfb618-5ed2-4841-b7c1-a9f049ac8f9d,53.19,white,female,1,1,1,1,1
+f55eb7a0-34e6-4d0d-9427-7d7896ddf060,68.06,white,female,1,1,1,0,3
+c38adc46-f0f2-4c71-91b6-da2159dcb190,50.04,white,female,1,1,1,1,3
+195c9f03-31c3-465a-ac58-3949246b173b,31.92,white,female,1,0,0,1,2
+425a82ae-e0bf-48ae-946f-58ccc2571bfd,37.45,white,female,1,1,1,1,1
+fae4edd8-db77-4937-94c4-3b16d39fb8c9,73.54,white,female,1,1,1,0,1
+c7aeba7e-b78e-4586-a4dd-8a04cc440737,56.64,white,female,1,0,0,0,2
+1737104f-367e-4098-a068-12f8ece492bf,50.92,black or african american,female,1,1,1,1,2
+da84f488-af86-4472-bf87-063a9137e1db,56.51,white,female,1,1,1,1,2
+5cce30f3-99ae-4959-987a-0d280dc2ec44,49.55,white,female,1,1,1,1,2
+7e035247-3586-443f-a94c-0addbaf3b17f,45.59,white,female,1,1,1,1,3
+586d9c21-e58a-4171-9755-30c0e8b16293,65.56,white,female,1,1,1,1,2
+0e62a6d0-87a7-4efc-922f-753328694458,45.49,white,female,1,1,1,1,2
+a2f1fa8f-26d6-4b3e-8816-33f42e3f9209,60.88,white,female,1,0,0,0,1
+207ea988-6795-460c-bfeb-382d8c758f31,62.73,white,female,1,1,1,0,2
+404cea41-efa9-44c0-84a1-5dd603d7a2a4,46.45,white,female,1,1,1,1,1
+c95841fa-ea90-4a12-99aa-5c342af9e0e8,77.82,black or african american,female,1,0,0,1,1
+ab06e3b7-52ef-45e4-8fc6-dbb4f63b110e,34.32,white,female,1,0,0,1,2
+287a036d-5b2d-4faf-93a0-cf0be006fa6b,54.19,white,female,1,1,1,1,3
+e4f80aa3-eace-4ab4-afff-69d952ed5442,70.61,white,female,1,1,1,1,2
+70ea9273-29f3-425a-ba66-5b75db62c9b7,38.31,black or african american,female,1,1,1,1,3
+e855de31-6adc-423f-9295-3064f2449f35,54.36,black or african american,female,1,1,1,1,1
+d27acb8c-2551-4ea7-8c09-f211cb4a9ec0,68.15,white,male,1,1,1,1,2
+6c3f2469-50ea-48a7-bb17-043e74e54535,80.03,white,female,1,1,1,1,2
+7be570ba-7f69-431e-88c2-614e92bc88ae,52.14,white,female,1,1,1,1,2
+0f1cf3a6-6e68-440a-9744-85e44d88b61f,52.57,black or african american,female,1,1,1,1,2
+b0cc3c29-89fe-4010-8f56-137f2b897bce,57.71,white,female,1,1,1,1,2
+0c068d5a-ccad-47a5-bfe0-0dc5f136d6aa,45.61,black or african american,female,1,1,1,1,2
+a25f8ce5-b3f3-4d2d-b862-b703650066fb,55.0,asian,female,1,1,1,1,2
+ff5f8ada-17c5-497e-9182-63a05e3ab4c5,71.38,black or african american,female,1,1,1,0,2
+1f5bbb4e-9b0e-4953-a360-83fd7b6a2267,54.05,white,female,1,1,1,1,2
+1dd898ab-3b85-4932-b889-0eb0a494f2b6,73.49,white,female,1,1,1,0,2
+c0f6d246-c872-41a5-8135-2bdbdb1f924f,49.26,black or african american,female,1,1,1,0,2
+94ae90d4-16a8-4922-b6b6-e5fcec9d0ae6,79.79,white,female,1,1,1,0,3
+17b87e41-8f42-48d8-90f8-d2c9b8553481,55.82,white,female,1,1,1,1,3
+bd239a8e-56e2-45ca-bc44-bff98b72c1d6,50.75,white,female,1,0,0,0,2
+5e789924-9d98-4765-a348-90a27349d906,59.0,black or african american,female,1,1,1,1,2
+d721071e-6c0e-46df-9158-1fe37a64f1ed,42.71,black or african american,female,1,1,1,1,3
+363736c4-cc2d-4920-a10b-bd0de899cdb1,53.19,white,female,1,1,1,1,2
+0427af63-b665-4c57-874b-65222c200bfe,48.65,white,female,1,1,1,1,2
+842b0c9e-a03d-4074-b0fe-be8d0e056c7d,53.74,black or african american,female,1,1,1,1,2
+893122aa-117b-49a4-a81c-1229dde4d78a,80.36,black or african american,female,1,1,1,1,2
+5d875fca-d1ff-4c08-9dfa-0f1e67dc586b,62.47,white,female,1,1,1,0,3
+7774e389-c3c5-4abf-846c-4e8eead7e521,47.2,white,female,1,1,1,1,2
+91e43fc0-1bd1-41e3-a828-43ec6620feb6,47.64,white,female,1,1,1,1,3
+19baf63b-8488-4b90-83b7-a6c671da0095,48.44,white,female,1,0,0,0,2
+e4f49b9c-faed-4f15-a79c-79664e2c03b6,60.09,white,female,1,0,0,1,2
+45bf52c6-b1a3-4f01-8345-a224fc195e18,66.18,white,female,1,1,1,1,1
+2455f280-a23c-48ec-b4c1-698b56f72a45,75.98,black or african american,female,1,1,1,0,2
+a58e2ae3-a236-4209-8292-70465216cb85,43.22,white,female,1,1,1,1,2
+f0107961-a5e1-46ec-b232-a47f0049bc5f,43.77,white,female,1,1,1,1,3
+82255740-abaa-47b3-9def-89b0673d1cfb,27.05,white,female,1,1,1,1,3
+1051db4c-40a5-4a98-a239-d96c986aa349,49.35,black or african american,female,1,1,1,0,2
+2dc5eb24-fb84-455a-ae05-3b58ad2fc284,64.12,white,female,1,1,1,0,2
+a930c017-565f-49ad-893a-37cc394c269d,73.11,white,female,1,0,0,0,3
+65bc2a34-2355-4193-b20e-439f2d7f6df2,64.88,white,female,1,1,1,0,1
+4bb6eb79-4256-4b19-b158-883da969a582,73.95,white,female,1,1,1,1,2
+28c03f8f-7f7a-4a53-a840-db0f4052ed26,55.64,black or african american,female,1,1,1,0,4
+cf089a52-2196-422d-affa-a5f434edd134,89.98,not reported,female,1,1,1,0,3
+386ce911-e1c2-4d68-b0a3-aac157e1a555,41.69,white,female,1,1,1,1,2
+3841a099-bf19-4891-9b12-5db1d699e922,39.08,asian,female,1,1,1,1,2
+a260d9e5-d88e-44eb-8431-4266c1baf68a,48.78,white,female,1,1,1,0,3
+9985bb0b-d1cc-455b-80d9-f8007669cd5c,47.05,white,female,1,0,0,0,4
+e21262db-a694-4461-b1b0-e52c0891113a,73.47,white,female,1,1,1,1,4
+ccb87d7a-2729-4017-bc17-10e5a67bd5cc,66.48,white,female,1,1,1,0,2
+6df72103-ccfb-4a53-b839-2e8c47ec2145,71.97,white,female,1,1,1,1,3
+8ebe0bf6-11fa-418d-918c-5c73f0e7e9ac,45.22,white,female,1,1,1,0,3
+d796de5e-4512-4b3a-93d4-2a006e79084f,45.13,white,female,1,1,1,1,3
+2d148c3a-7bbd-414f-872e-dd916d0e3ccf,78.7,white,female,1,0,0,1,2
+104e3cb5-c6df-422b-a55f-6b19408594d4,40.7,white,female,1,1,1,1,3
+81f86e31-55db-4483-b6e0-55451ffbd1db,29.08,white,female,1,1,1,1,1
+cbfb8ffe-ae83-4a16-aaa6-f21ea893cb8d,68.87,white,female,1,0,0,1,2
+22dad91c-889d-4d40-b9b8-c9facd752dc9,37.38,black or african american,female,1,1,1,0,2
+0ed77a2e-a2c9-4557-8ba3-2c8bade9b792,47.87,white,female,1,1,1,1,2
+d393af6b-de4b-4ca6-bc06-a29068dfe086,61.32,black or african american,female,1,1,1,1,2
+263123b0-ec68-47cd-96dd-4f0795503d89,74.1,white,female,1,1,1,1,1
+50260fba-c435-480a-9bb8-f2839ba499a4,63.69,white,female,1,1,1,0,2
+89ece3f8-e2db-4ed6-b5b8-dd4df34d6224,76.53,white,female,1,1,1,1,2
+d914654b-ec4f-4be5-a525-2997a4b39279,42.48,white,female,1,1,1,1,3
+4004cdd0-51fa-4330-bd03-5448f6c7b787,49.42,white,female,1,1,1,1,2
+a9b5ab37-10c2-4fb6-9c4e-3fcd5ea26526,68.28,white,female,1,1,1,1,2
+9cbb73a5-7b3b-4559-a295-d4693ae6dee2,39.71,white,female,1,1,1,1,1
+e748021e-b8ec-4b17-8b59-ce9d0a3d42e1,84.21,white,female,1,1,1,0,4
+e173c170-b7c6-4aa9-9f34-33cd02702d75,61.21,white,female,1,1,1,1,2
+5461f36b-c2a2-4a6a-8b17-444c143655fc,47.18,white,female,1,1,1,1,1
+b96a8979-77c1-41b5-a247-0342262d30f7,46.78,white,female,1,1,1,0,2
+00b13ccf-ad7c-4613-8366-7c583a399691,39.81,white,female,1,0,0,1,3
+50e8fce6-5775-41d6-bcaa-73773db999e2,54.04,black or african american,female,1,1,1,1,2
+3e0cc1e4-0882-4e9b-9373-34bcbce097d7,72.51,black or african american,female,1,1,1,1,2
+54a6b5bc-f788-4bea-b92c-e4dc9c71d99e,45.91,white,female,1,1,1,1,2
+3e0c80d6-5091-454c-ad27-eb513cf6f45d,59.0,black or african american,female,1,1,1,1,2
+5c57b96c-909e-468e-bef6-f0375a788fcb,70.54,white,female,1,1,1,1,2
+a542178a-a338-40d4-be52-b9a71af89b58,42.58,white,female,1,1,1,1,2
+e64c5a32-13c4-495e-ab4c-b5000332c09d,72.05,white,female,1,1,1,0,2
+e67bbc10-91cf-406e-8d5f-8d44c77315f1,88.48,white,female,1,0,0,0,1
+f45af277-1f94-4cdd-97d4-8ccdbd7ff18e,90.06,white,female,1,1,1,0,2
+2ea0b718-c634-4692-9cf0-4f118adfafbd,72.35,white,female,1,1,1,0,2
+aa4bc249-100e-4cf6-8356-1dc96b7dbea9,40.88,white,female,1,1,1,1,3
+398fa6bf-78af-473b-8f2c-a2b3b605131f,45.59,white,female,1,1,1,1,2
+373e0f41-a47e-4f4e-88fe-9703d16a840c,50.75,white,female,1,0,0,0,2
+5dfadec2-3a10-40a9-99be-4984e917ba88,47.85,white,female,1,1,1,1,3
+dbbacb2c-b675-4a35-a6ff-157865f24945,79.38,white,female,1,0,0,1,1
+28ecd88f-6249-425c-99e1-9055989feff8,83.53,white,female,1,1,1,1,1
+f2a4b38d-bfc0-4363-9a58-b5fa2af26ff3,42.05,black or african american,female,1,1,1,0,3
+8a7fe670-bcef-4fcb-9759-9892ff5f4f61,35.18,white,female,1,1,1,1,1
+ccd3b6f5-b425-47fb-b48e-0e24a4d6a4b2,45.76,white,female,1,1,1,1,1
+54600389-6de5-44ce-ada1-8a8508b50980,66.4,white,female,1,1,1,0,4

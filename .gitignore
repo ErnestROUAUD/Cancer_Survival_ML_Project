@@ -1,0 +1,22 @@
+# secrets
+notebooks/project.env
+
+# regenerable data and outputs
+Output/
+*.parquet
+*.pt
+data_cases.json
+data_files.json
+Countdata.csv
+X_*.csv
+y_*.csv
+
+# dashboard source file and private documents
+*.pbix
+project_guideline.pdf
+*.code-workspace
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/

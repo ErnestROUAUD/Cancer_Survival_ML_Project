@@ -1,0 +1,13 @@
+  pandas
+  numpy
+  scikit-learn
+  torch
+  duckdb
+  boto3
+  pydeseq2
+  python-dotenv
+  tqdm
+  fastparquet
+  requests
+  openpyxl
+  matplotlib
