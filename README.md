@@ -4,7 +4,7 @@ The aim of this project is to try to predict the probability of __breast cancer_
 
 The used data originated from [TCGA-BRCA database](https://www.cancer.gov/ccg/research/genome-sequencing/tcga), and was treated during a build end-to-end pipeline, spanning from public API to Power BI dashboard. 
 
-<div align="center"><img src="Dashboard/Pipeline_overview_page.png" alt="Pipeline Overview" width="1200"/></div>
+<div align="center"><img src="Dashboard/Pipeline_overview_page.png" alt="Pipeline Overview" width="1400"/></div>
 
 ## __Overview__:
 
@@ -20,16 +20,16 @@ The used data originated from [TCGA-BRCA database](https://www.cancer.gov/ccg/re
 ###### (_A PDF export of all Power BI pages is present in dashboard/_)
 ####  __Cohort__:
 
-<div align="center"><img src="Dashboard/Cohort_page.png" alt="Cohort Overview" width="1200"/></div>
+<div align="center"><img src="Dashboard/Cohort_page.png" alt="Cohort Overview" width="1400"/></div>
 
 ####  __Model Performance__: 
 (KPIs and Overall takeaways depicts different comparison between the two feature-selection methods)
 
 #### __PCA__: 
-<div align="center"><img src="Dashboard/Model_PCA_page.png" alt="Model Performance PCA" width="1200"/></div>
+<div align="center"><img src="Dashboard/Model_PCA_page.png" alt="Model Performance PCA" width="1400"/></div>
 
 #### __Deseq2__: 
-<div align="center"><img src="Dashboard/Model_Deseq2_page.png" alt="Model Performance Deseq2" width="1200"/></div>
+<div align="center"><img src="Dashboard/Model_Deseq2_page.png" alt="Model Performance Deseq2" width="1400"/></div>
 
 ## __Key Results__: 
 
@@ -122,7 +122,8 @@ Note: Larger and secret files were not tracked and excluded (see _.gitignore_)
 
 ## __Reproduce__:
 
-### 1. Set up the __environment__ (_Python 3.10+; developed on 3.13_)
+### 1. Set up the __environment__
+(_Python 3.10+; developed on 3.13_)
 
 ```bash
    python -m venv .venv
@@ -130,7 +131,8 @@ Note: Larger and secret files were not tracked and excluded (see _.gitignore_)
    pip install -r requirements.txt
 ```
 
-### 2. Configure __paths__ and __AWS__ credentials: (see _.env.example_)
+### 2. Configure __paths__ and __AWS__ credentials:
+(see _.env.example_)
 
 ```text
    AWS_ACCESS_KEY_ID=
